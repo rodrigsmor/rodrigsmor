@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I'm Rodrigo. 👨🏽‍💻👋🏽</h1>
+<h1 align="center"> Hello World! I'm Rodrigo. 👨🏽‍💻👋🏽</h1>
 
 I'm a young programmer starting his journey in this wonderful area of ​​work, inserting himself in this huge world of Information Technology.
 ****
@@ -19,3 +19,6 @@ Main Technologies:
 
 Connect with me: 
 
+[![Badge Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RodrogaDev)
+[![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-m0reira-da-silva/)
+![Badge Gmail](https://img.shields.io/badge/rodrigomoreiradasilva.of@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
