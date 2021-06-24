@@ -67,7 +67,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoMoreiraDaSilva&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" hspace="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMoreiraDaSilva&theme=tokyonight" />
+    <img align="center" hspace="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMoreiraDaSilva&theme=tokyonight" />
   </a>
 </p>
 
