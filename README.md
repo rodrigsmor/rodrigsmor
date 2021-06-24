@@ -1,12 +1,51 @@
-<h1 align="center"> Hello World! I'm Rodrigo. 👨🏽‍💻👋🏽</h1>
+<img src="images/presentation-banner.gif">
 
-I'm a young programmer starting his journey in this wonderful area of ​​work, inserting himself in this huge world of Information Technology.
-****
-> ❝ _What Matter is not to know the world but to change it._ ❞ - 
-> <p align="right"> <i> <b>- Frantz Fanon </b></i></p>
+<h1 align="center"> Hello World! 👋🏽</h1>
+
+<p align="center">
+  <a href="https://twitter.com/psrodrigs">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-m0reira-da-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rodrigomoreiradasilva.of@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=D72A78">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=4C216C">
+  </a>
+</p>
+
+<h4 align="center"> 🤩 Hi, devs, I'm Rodrigo! 🚀</h4>
+<p align="center"> 
+  I'm a young developer starting my journey in this huge world of information technology 👨🏽‍💻. I'm currently studying at the Federal Institute of São Paulo (IFSP), on the Cubatão campus, where I am learning a little about technology. I've always been passionate about technology, would love to contribute to the community and I'm open to new learnings and experiences! 😉❤️ 
+</p>
+
+<p align="center">
+  <code>
+    ❝ <i> What Matter is not to know the world but to change it. </i> ❞
+    <i align="left"> — Frantz Fanon</i>
+  </code>
+</p>
+
 ****
 
-I am a Computer Student at the Federal Institute of São Paulo, on the Cubatão campus, and I have always been passionate about technology.
+<p float="left">
+
+ <img align="right" height="250px" src="https://user-images.githubusercontent.com/78985382/123180079-f2c6dd00-d460-11eb-9af3-8e263e58cedb.png">
+  
+ <h2>✨ A little bit about me </h2>
+ 🌎 | Brazilian 🇧🇷 </br>
+ 🏫 | Student at IFSP 🧑🏾‍🎓 </br>
+ 🎮 | A great lover of arts and readings 📚 </br>
+ 💻 | I intend to be a Full-Stack Developer 👨🏾‍💻 </br>
+ 💖 | A technology and development enthusiast 🔬 </br>
+ 🧠 | A admirer of philosophy and social sciences 🤔 
+</p>
 
 Main Technologies:
 
