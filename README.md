@@ -67,6 +67,17 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoMoreiraDaSilva&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" hspace="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMoreiraDaSilva&theme=tokyonight" />
+    <img align="center" hspace="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMoreiraDaSilva&theme=tokyonight" />
   </a>
 </p>
+
+<p align="center">
+  <img align="center" src="https://github.com/RodrigoMoreiraDaSilva/RodrigoMoreiraDaSilva/blob/main/images/github-user-contribution.svg">
+</p>
+
+
+****
+
+<h2 align="center">🎵 Listening now... 🎵</h2>
+
+[<img src="https://novatorem-q9j2c9b9u-rodrigomoreiradasilva.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/27by2j186hn5z4j78zmf7xvdl)
