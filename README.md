@@ -36,7 +36,7 @@
 
 <p float="left">
 
- <img align="right" height="250px" src="https://user-images.githubusercontent.com/78985382/123180079-f2c6dd00-d460-11eb-9af3-8e263e58cedb.png">
+ <img align="right" height="300px" src="https://user-images.githubusercontent.com/78985382/123180079-f2c6dd00-d460-11eb-9af3-8e263e58cedb.png">
   
  <h2>✨ A little bit about me </h2>
  🌎 | Brazilian 🇧🇷 </br>
@@ -47,17 +47,26 @@
  🧠 | A admirer of philosophy and social sciences 🤔 
 </p>
 
-Main Technologies:
+## 🛠 Languages and Tools:
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=A51016)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=254BDD)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=642076)
+<p>
+  <img height="35px" hspace="10px" src="https://user-images.githubusercontent.com/78985382/123199628-a17d1480-d485-11eb-973e-89b86eb3eaaf.png">
+  <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img height="35px" hspace="10px" src="https://i0.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/js-logo.png?ssl=1" />
+  <img height="35px" hspace="12px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+  <img height="35px" hspace="12px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
+  <img height="35px" hspace="12px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <img height="35px" hspace="12px" src="https://byteslivres.com.br/blog/wp-content/uploads/2018/01/MySQL-Logo.png" />
+</p>
 
-Connect with me: 
+<h2 align="center"> 🎇 My github stats: 🎇</h2>
 
-[![Badge Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RodrogaDev)
-[![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-m0reira-da-silva/)
-![Badge Gmail](https://img.shields.io/badge/rodrigomoreiradasilva.of@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoMoreiraDaSilva&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" hspace="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMoreiraDaSilva&theme=tokyonight" />
+  </a>
+</p>
