@@ -51,13 +51,14 @@
 
 <p>
   <img height="35px" hspace="10px" src="https://user-images.githubusercontent.com/78985382/123199628-a17d1480-d485-11eb-973e-89b86eb3eaaf.png" alt="visual studio code">
-  <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img height="35px" hspace="10px" src="https://i0.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/js-logo.png?ssl=1" />
-  <img height="35px" hspace="12px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-  <img height="35px" hspace="12px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-  <img height="35px" hspace="12px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  <img height="35px" hspace="12px" src="https://byteslivres.com.br/blog/wp-content/uploads/2018/01/MySQL-Logo.png" />
+  <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"/>
+  <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"/>
+  <img height="35px" hspace="10px" src="https://i0.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/js-logo.png?ssl=1" alt="javascript"/>
+  <img height="35px" hspace="12px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#"/>
+  <img height="35px" hspace="12px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="JAVA"/>
+  <img height="35px" hspace="12px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/>
+  <img height="35px" hspace="12px" src="https://byteslivres.com.br/blog/wp-content/uploads/2018/01/MySQL-Logo.png" alt="MySQL"/>
+  <img height="35px" hspace="12px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"/>
 </p>
 
 <h2 align="center"> 🎇 My github stats: 🎇</h2>
