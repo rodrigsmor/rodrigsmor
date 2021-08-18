@@ -50,7 +50,7 @@
 ## 🛠 Languages and Tools:
 
 <p>
-  <img height="35px" hspace="10px" src="https://user-images.githubusercontent.com/78985382/123199628-a17d1480-d485-11eb-973e-89b86eb3eaaf.png">
+  <img height="35px" hspace="10px" src="https://user-images.githubusercontent.com/78985382/123199628-a17d1480-d485-11eb-973e-89b86eb3eaaf.png" alt="visual studio code">
   <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img height="35px" hspace="10px" src="https://i0.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/js-logo.png?ssl=1" />
