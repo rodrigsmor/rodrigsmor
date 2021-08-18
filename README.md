@@ -59,6 +59,8 @@
   <img height="35px" hspace="12px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/>
   <img height="35px" hspace="12px" src="https://byteslivres.com.br/blog/wp-content/uploads/2018/01/MySQL-Logo.png" alt="MySQL"/>
   <img height="35px" hspace="12px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"/>
+  <img height="35px" hspace="10px" src="https://camo.githubusercontent.com/abd19bd0c5030c8d874ed7073f1815d777004451d5967c447386840b80624569/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f72656163742d6a732f72656163742e706e67" alt="React.js">
+  <img height="35px" hspace="10px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL">
 </p>
 
 <h2 align="center"> 🎇 My github stats: 🎇</h2>
