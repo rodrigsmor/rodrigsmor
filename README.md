@@ -1,12 +1,12 @@
-<img src="images/presentation-banner.gif">
+<img src="images/presentation-banner.png">
 
-<h1 align="center"> Hello World! 👋🏽</h1>
+<h1 align="center"> <b> Hello World! </b> 👋🏽</h1>
 
 <p align="center">
   <a href="https://twitter.com/psrodrigs">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/rodrigo-m0reira-da-silva/">
+  <a href="https://www.linkedin.com/in/psrodrigomoreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rodrigomoreiradasilva.of@gmail.com">
@@ -15,14 +15,21 @@
   <a href="">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=D72A78">
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=4C216C">
+  <a href="https://dev.to/psrodrigs">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
 </p>
 
-<h4 align="center"> 🤩 Hi, devs, I'm Rodrigo! 🚀</h4>
+<h3 align="center"> <b> 🤩 Hi, devs, I'm Rodrigo! </b> 🚀</h3>
 <p align="center"> 
-  I'm a young developer starting my journey in this huge world of information technology 👨🏽‍💻. I'm currently studying at the Federal Institute of São Paulo (IFSP), on the Cubatão campus, where I am learning a little about technology. I've always been passionate about technology, would love to contribute to the community and I'm open to new learnings and experiences! 😉❤️ 
+  I'm 18 years old, I'm a Full Stack software developer 👨🏽‍💻, and I study at the Federal Institute of São Paulo, in the IT course. I like to develop applications that stimulate my creativity and challenge me to surpass my abilities, always expanding my knowledge 🤓✨. 
+</p>
+<p align="center">
+  I've always been passionate about technology and my goal is to contribute to the development community, in addition to growing a lot professionally. I'm a very flexible person, so I'm usually open to new experiences and challenges 😍💕. 
+</p>
+
+<p align="center">
+  <b>Feel free to browse my profile 😉❤️</b>
 </p>
 
 <p align="center">
@@ -41,8 +48,8 @@
  <h2>✨ A little bit about me </h2>
  🌎 | Brazilian 🇧🇷 </br>
  🏫 | Student at IFSP 🧑🏾‍🎓 </br>
+ 💻 | I'm a Full Stack Developer 👨🏾‍💻 </br>
  🎮 | A great lover of arts and readings 📚 </br>
- 💻 | I intend to be a Full-Stack Developer 👨🏾‍💻 </br>
  💖 | A technology and development enthusiast 🔬 </br>
  🧠 | A admirer of philosophy and social sciences 🤔 
 </p>
@@ -74,11 +81,6 @@
     <img align="center" hspace="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigsmor&theme=tokyonight" />
   </a>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github.com/rodrigsmor/rodrigsmor/blob/main/images/github-user-contribution.svg">
-</p>
-
 
 ****
 
