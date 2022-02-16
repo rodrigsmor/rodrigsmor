@@ -1,4 +1,4 @@
-<img src="images/presentation-banner.png">
+<img width="100%" align="center" src="images/presentation-banner.png">
 
 <h1 align="center"> <b> Hello World! </b> 👋🏽</h1>
 
@@ -76,10 +76,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigsmor&show_icons=true&theme=tokyonight" />
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigsmor&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigsmor&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigsmor&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
@@ -90,7 +90,3 @@
 </p>
 
 ****
-
-<h2 align="center">🎵 Listening now... 🎵</h2>
-
-[<img src="https://novatorem-q9j2c9b9u-rodrigomoreiradasilva.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/27by2j186hn5z4j78zmf7xvdl)
