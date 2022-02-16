@@ -57,32 +57,37 @@
 ## 🛠 Languages and Tools:
 
 <p>
-  <img height="35px" hspace="10px" src="https://user-images.githubusercontent.com/78985382/123199628-a17d1480-d485-11eb-973e-89b86eb3eaaf.png" alt="visual studio code">
-  <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"/>
-  <img height="35px" hspace="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"/>
-  <img height="35px" hspace="10px" src="https://i0.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/js-logo.png?ssl=1" alt="javascript"/>
-  <img height="35px" hspace="12px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#"/>
-  <img height="35px" hspace="12px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="JAVA"/>
-  <img height="35px" hspace="12px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/>
-  <img height="35px" hspace="12px" src="https://byteslivres.com.br/blog/wp-content/uploads/2018/01/MySQL-Logo.png" alt="MySQL"/>
-  <img height="35px" hspace="12px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"/>
-  <img height="35px" hspace="10px" src="https://camo.githubusercontent.com/abd19bd0c5030c8d874ed7073f1815d777004451d5967c447386840b80624569/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f72656163742d6a732f72656163742e706e67" alt="React.js">
-  <img height="35px" hspace="10px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL">
-  <img height="35px" hspace="10px" src="https://img.icons8.com/color/452/spring-logo.png" alt="Spring Framework">
+  <img height="35px" hspace="10px" alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img height="35px" hspace="10px" alt="Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="35px" hspace="10px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="35px" hspace="10px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="35px" hspace="10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="35px" hspace="10px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="35px" hspace="10px" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img height="35px" hspace="10px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img height="35px" hspace="10px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="35px" hspace="10px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img height="35px" hspace="10px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img height="35px" hspace="10px" alt="CSHARP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img height="35px" hspace="10px" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </p>
 
 <h2 align="center"> 🎇 My github stats: 🎇</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigsmor&show_icons=true&theme=tokyonight" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigsmor&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" hspace="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigsmor&theme=tokyonight" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigsmor&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
-![snake animation](https://github.com/rodrigsmor/rodrigsmor/raw/output/github-contribution-grid-snake.svg)
+##
+
+<p align="center">
+  <img src="https://github.com/rodrigsmor/rodrigsmor/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
 
 ****
 
