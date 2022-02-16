@@ -82,6 +82,8 @@
   </a>
 </p>
 
+![snake animation](https://github.com/rodrigsmor/rodrigsmor/raw/output/github-contribution-grid-snake.svg)
+
 ****
 
 <h2 align="center">🎵 Listening now... 🎵</h2>
