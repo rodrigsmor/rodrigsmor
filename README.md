@@ -22,7 +22,7 @@
 
 <h3 align="center"> <b> 🤩 Hi, devs, I'm Rodrigo! </b> 🚀</h3>
 <p align="center"> 
-  I'm 18 years old, I'm a Full Stack software developer 👨🏽‍💻, and I study at the Federal Institute of São Paulo, in the IT course. I like to develop applications that stimulate my creativity and challenge me to surpass my abilities, always expanding my knowledge 🤓✨. 
+  I'm 19 years old, I'm a Full Stack software developer 👨🏽‍💻, and I study at the Federal Institute of São Paulo, in the IT course. I like to develop applications that stimulate my creativity and challenge me to surpass my abilities, always expanding my knowledge 🤓✨. 
 </p>
 <p align="center">
   I've always been passionate about technology and my goal is to contribute to the development community, in addition to growing a lot professionally. I'm a very flexible person, so I'm usually open to new experiences and challenges 😍💕. 
