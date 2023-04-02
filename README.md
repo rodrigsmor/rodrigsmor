@@ -3,40 +3,38 @@
 <h1 align="center"> <b> Hello World! </b> 👋🏽</h1>
 
 <p align="center">
-  <a href="https://twitter.com/psrodrigs">
+  <a href="https://twitter.com/psrodrigs" alt="twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/psrodrigomoreira/">
+  <a href="https://www.linkedin.com/in/psrodrigomoreira/" alt="linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rodrigsmor.pf@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=D72A78">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance">
   </a>
   <a href="https://dev.to/psrodrigs">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
+  </a>
+  <a href="https://rm-portfoliof.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="personal portfolio" />
   </a>
 </p>
 
-<h3 align="center"> <b> 🤩 Hi, devs, I'm Rodrigo! </b> 🚀</h3>
-<p align="center"> 
-  I'm 19 years old, I'm a Full Stack software developer 👨🏽‍💻, and I study at the Federal Institute of São Paulo, in the IT course. I like to develop applications that stimulate my creativity and challenge me to surpass my abilities, always expanding my knowledge 🤓✨. 
-</p>
-<p align="center">
-  I've always been passionate about technology and my goal is to contribute to the development community, in addition to growing a lot professionally. I'm a very flexible person, so I'm usually open to new experiences and challenges 😍💕. 
-</p>
+<p>My name is Rodrigo Moreira, I'm a full stack software developer, I'm certificated in computer technical course at Instituto Federal de São Paulo (IFSP). Besides being a programmer, I also do some design work using Figma. I'm a great technology enthusiast and I always look for improving my skills by developing applications that stimulate my creativity and allow me to overcome my limitations. </p>
+
+<p>I'm passionate about acquiring new knowledge and understanding how technologies work, so expanding my knowledge is something I never give up. As an extremely flexible professional, I'm always open to new challenges and opportunities.</p>
 
 <p align="center">
   <b>Feel free to browse my profile 😉❤️</b>
 </p>
 
 <p align="center">
-  <code>
-    ❝ <i> What Matter is not to know the world but to change it. </i> ❞
-    <i align="left"> — Frantz Fanon</i>
-  </code>
+  <quote>
+    ❝The secret of success is constancy of purpose❞
+  </quote>
 </p>
 
 ****
@@ -48,6 +46,7 @@
  <h2>✨ A little bit about me </h2>
  🌎 | Brazilian 🇧🇷 </br>
  🏫 | Student at IFSP 🧑🏾‍🎓 </br>
+ 🎨 | studying UI/UX designer 🖼 </br>
  💻 | I'm a Full Stack Developer 👨🏾‍💻 </br>
  🎮 | A great lover of arts and readings 📚 </br>
  💖 | A technology and development enthusiast 🔬 </br>
@@ -68,12 +67,10 @@
   <img height="35px" hspace="10px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img height="35px" hspace="10px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img height="35px" hspace="10px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img height="35px" hspace="10px" alt="CSHARP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img height="35px" hspace="10px" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img height="35px" hspace="10px" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img height="35px" hspace="10px" alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
   <img height="35px" hspace="10px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img height="35px" hspace="10px" alt="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
 </p>
 
 <h2 align="center"> 🎇 My github stats: 🎇</h2>
