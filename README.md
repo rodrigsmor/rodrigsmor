@@ -23,19 +23,10 @@
   </a>
 </p>
 
-<p>My name is Rodrigo Moreira, I'm a full stack software developer, I'm certificated in computer technical course at Instituto Federal de São Paulo (IFSP). Besides being a programmer, I also do some design work using Figma. I'm a great technology enthusiast and I always look for improving my skills by developing applications that stimulate my creativity and allow me to overcome my limitations. </p>
+<h2>📖 A brief summary of me</h2>
 
-<p>I'm passionate about acquiring new knowledge and understanding how technologies work, so expanding my knowledge is something I never give up. As an extremely flexible professional, I'm always open to new challenges and opportunities.</p>
+<p>Hi, I'm Rodrigo Moreira, a technology enthusiast and a Full Stack software developer with a passion for creating innovative solutions. My goal is to always expand my knowledge and challenge myself to improve my skills and create a positive impact in the world of technology. As a software developer, I aim to develop solutions that demonstrate my identity and guarantee usability, accessibility and responsive layouts. Beyond coding, I harness my UI/UX skills to prototype applications.</p>
 
-<p align="center">
-  <b>Feel free to browse my profile 😉❤️</b>
-</p>
-
-<p align="center">
-  <quote>
-    ❝The secret of success is constancy of purpose❞
-  </quote>
-</p>
 
 ****
 
