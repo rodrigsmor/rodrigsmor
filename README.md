@@ -57,6 +57,7 @@
   <img height="35px" hspace="10px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img height="35px" hspace="10px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img height="35px" hspace="10px" alt="Nest.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img height="35px" hspace="10px" alt="Cypress" src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png">
   <img height="35px" hspace="10px" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img height="35px" hspace="10px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img height="35px" hspace="10px" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
