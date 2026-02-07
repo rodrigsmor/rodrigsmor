@@ -1,4 +1,4 @@
-<img width="100%" align="center" src="images/presentation-banner.png">
+<img width="100%" align="center" src="images/ReadmeCover.png">
 
 <h1 align="center"><b> Hello World! </b> 👋🏽😉</h3>
 
@@ -34,7 +34,7 @@ As a technology enthusiast, I’m constantly seeking to expand my knowledge and 
 
 <p float="left">
 
- <img align="right" height="300px" src="https://user-images.githubusercontent.com/78985382/123180079-f2c6dd00-d460-11eb-9af3-8e263e58cedb.png">
+ <img align="right" height="300px" src="images/Coding.png">
   
  <h2>✨ A little bit about me </h2>
 
@@ -61,7 +61,7 @@ As a technology enthusiast, I’m constantly seeking to expand my knowledge and 
   <img height="35px" hspace="10px" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img height="35px" hspace="10px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img height="35px" hspace="10px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img height="35px" hspace="10px" alt="Nest.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img height="35px" hspace="10px" alt="Nest.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img height="35px" hspace="10px" alt="Cypress" src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png">
   <img height="35px" hspace="10px" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img height="35px" hspace="10px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
