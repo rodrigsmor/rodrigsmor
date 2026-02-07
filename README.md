@@ -1,13 +1,10 @@
 <img width="100%" align="center" src="images/presentation-banner.png">
 
-<h1 align="center"> <b> Hello World! </b> 👋🏽</h1>
+<h1 align="center"><b> Hello World! </b> 👋🏽😉</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/psrodrigomoreira/" alt="linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/psrodrigs" alt="twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="mailto:rodrigsmor.pf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
@@ -18,14 +15,19 @@
   <a href="https://dev.to/psrodrigs">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
   </a>
-  <a href="https://rm-portfoliof.netlify.app/">
+  <a href="https://rodrigo-moreira.vercel.app/en-US">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="personal portfolio" />
   </a>
 </p>
 
-<h2>📖 A brief summary of me</h2>
+<h2>🤔 Who am I?</h2>
+<p>
+  I’m a Full Stack Software Engineer with over 4 years of professional experience, passionate about building innovative and creative solutions. I have a strong appreciation for solving complex and challenging problems, always aiming to turn ideas into reliable and impactful software.
 
-<p>Hi, I'm Rodrigo Moreira, a technology enthusiast and a Full Stack software developer with a passion for creating innovative solutions. My goal is to always expand my knowledge and challenge myself to improve my skills and create a positive impact in the world of technology. As a software developer, I aim to develop solutions that demonstrate my identity and guarantee usability, accessibility and responsive layouts. Beyond coding, I harness my UI/UX skills to prototype applications.</p>
+As a Software Engineer, my goal is to design and develop scalable, high-performance applications that prioritize accessibility, usability, and responsiveness. I care deeply about writing clean, maintainable code and delivering solutions that create real value for users and businesses.
+
+As a technology enthusiast, I’m constantly seeking to expand my knowledge and skill set, staying up to date with modern tools, best practices, and architectural patterns. I believe continuous learning is essential to building increasingly effective and meaningful solutions.
+</p>
 
 
 ****
@@ -35,13 +37,16 @@
  <img align="right" height="300px" src="https://user-images.githubusercontent.com/78985382/123180079-f2c6dd00-d460-11eb-9af3-8e263e58cedb.png">
   
  <h2>✨ A little bit about me </h2>
- 🌎 | Brazilian 🇧🇷 </br>
- 🏫 | Student at IFSP 🧑🏾‍🎓 </br>
- 🎨 | studying UI/UX designer 🖼 </br>
- 💻 | I'm a Full Stack Developer 👨🏾‍💻 </br>
- 🎮 | A great lover of arts and readings 📚 </br>
- 💖 | A technology and development enthusiast 🔬 </br>
- 🧠 | A admirer of philosophy and social sciences 🤔 
+
+  🌎 | Brazilian Full Stack Engineer 👨🏾‍💻 🇧🇷</br>
+  🛠 | Focused on scalable and maintainable solutions</br>
+  🏗 | Interested in software architecture and system design</br>
+  🎯 | User-centered and accessibility-minded  </br>
+  🧩 | Strong problem-solver who enjoys complex challenges  </br>
+  📚 | Lifelong learner and technology enthusiast </br>
+  🤝 | Collaborative, curious and proactive</br>
+  🌱 | Growth-oriented and open to new challenges</br>
+  🎨 | Inspired by art, philosophy and social sciences  </br>
 </p>
 
 ## 🛠 Languages and Tools:
