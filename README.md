@@ -77,14 +77,23 @@ As a technology enthusiast, I’m constantly seeking to expand my knowledge and 
   <img height="35px" hspace="10px" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </p>
 
-<h2 align="center"> 🎇 My github stats: 🎇</h2>
+----
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigsmor&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigsmor&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a> -->
+  <a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-streak-stats-ruby.vercel.app/?user=rodrigsmor&theme=tokyonight&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de rodrigsmor" width="466" height="194" loading="lazy" />
+  </a>
+  <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://helio-github-stats.vercel.app/api?username=rodrigsmor&custom_title=GitHub+Stats&theme=tokyonight&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
+  </a>
+  <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
+    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=rodrigsmor&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages" alt="Top Languages" width="466" height="auto" loading="lazy" />
   </a>
 </p>
 
