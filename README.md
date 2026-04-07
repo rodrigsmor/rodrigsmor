@@ -1,7 +1,6 @@
 <img width="100%" align="center" src="images/ReadmeCover.png">
 
 <h1 align="center"><b> Hello World! </b> 👋🏽😉</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/psrodrigomoreira/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="linkedin">
