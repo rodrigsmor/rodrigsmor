@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/psrodrigomoreira/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="linkedin">
   </a>
+  
   <a href="mailto:rodrigsmor.pf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
